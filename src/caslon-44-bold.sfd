@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: CaslonBold
-FullName: Caslon-Bold
-FamilyName: Caslon
+FontName: Caslon44Bold
+FullName: Caslon 44
+FamilyName: Caslon 44
 Weight: Bold
 Copyright: The programs to draw the splines of this font are copyright (c) 1992-1998 by George Williams
 Version: 001.000
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1400309090
-ModificationTime: 1457485732
+ModificationTime: 1457486468
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
