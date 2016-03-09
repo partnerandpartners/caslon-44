@@ -3,7 +3,7 @@ FontName: CaslonBold
 FullName: Caslon-Bold
 FamilyName: Caslon
 Weight: Bold
-Copyright: The programs to draw the splines of this font are copyright (c) 1992-1998 by George Williams
+Copyright: The programs to draw the splines of this font are copyright © 1992-1998 by George Williams
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -105
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1400309090
-ModificationTime: 1457485732
+ModificationTime: 1457485670
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -45,7 +45,6 @@ OS2Vendor: 'PfEd'
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0 subtable"  } ['liga' ('latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'hlig' Historic Ligatures in Latin lookup 1" { "'hlig' Historic Ligatures in Latin lookup 1 subtable"  } ['hlig' ('latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'dlig' Discretionary Ligatures in Latin lookup 2" { "'dlig' Discretionary Ligatures in Latin lookup 2 subtable"  } ['dlig' ('latn' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
 LangName: 1036 "" "" "Gras"
 LangName: 1031 "" "" "Fett"
